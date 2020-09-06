@@ -1,0 +1,24 @@
+.wrapperNav {
+  width: 100%;
+  height: 60px;
+  background-color: aquamarine;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  margin: 20px;
+}
+.href {
+  margin: 20px;
+}
+.href a {
+  margin-right: 5px;
+  text-decoration: none;
+  color: black;
+}
+
+.href a:hover {
+  color: pink;
+}
